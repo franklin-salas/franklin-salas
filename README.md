@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lanister-law&show_icons=true&theme=radical) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklin-salas&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanister-law&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-salas&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
