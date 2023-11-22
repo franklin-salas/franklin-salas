@@ -20,7 +20,7 @@
   <br>
 </div>
   
-##  Skills ⚡
+## Skills ⚡
   
 #### Front-end:
 <div>
@@ -42,17 +42,58 @@
   <img align="center" title="Express" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" title="Java" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div>
+
 #### Database: 
   <div>
   <img align="center" title="Postgresql" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain.svg">
   <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-
  </div>
+ 
 ##  Contacts :speech_balloon:
  
 <div>
-
   <a href="https://api.whatsapp.com/send?phone=59171366093" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/franklin50/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
+## Proyecto 💻
+### Laravel
+- <b>Sistema POS</b>
+  - Sistema de venta, Reportes PDF, Graficos Estadisticos, Lector de Codigo de Barras, Atajos de Teclado. 
+  - Tecnología: Laravel,Bootstrap,JavaScript,MySql
+  - [Link](https://vuvtuqo.domcloud.io/)
+- <b>Kiosco</b>
+  - Sistema de Pedidos, carrito de compras. 
+  - Tecnología: Laravel, Tailwind, JavaScript, React, MySql
+  - [Link](https://vuvtuqo.domcloud.io/)
+- <b>Devstagram</b>
+  - Red social con funciones basicas. 
+  - Tecnología: Laravel, Tailwind, JavaScript, MySql
+  - [Link](https://vuvtuqo.domcloud.io/)
+### Java
+- <b>Venta de pasajes</b>
+  - Sistema de venta de pasajes, Reportes PDF. 
+  - Tecnología: Java 8, JasperReport, SQLserver
+  - [Link](https://vuvtuqo.domcloud.io/)
+- <b>Punto de venta - Patrones de diseño</b>
+  - Utilizar patrones de diseño para crear un modulo de venta con multiple conexion de bases de datos. 
+  - Tecnología: Java 8, SQLserver, MySql
+  - [Link](https://vuvtuqo.domcloud.io/)
+- <b>Graficador de Tablas</b>
+  - Grafica elementos de tabla de DB y convierte el diagrama en script sql. 
+  - Tecnología: Java 8 MySql
+  - [Link](https://vuvtuqo.domcloud.io/)
+- <b>Compilador de codigo</b>
+  - 1° Interperta codigo C3 y lo ejecuta. 
+  - 2° Reconoce codigo java y muestra los tokens, puede editar el color de los tokens. 
+  - Tecnología: Java 8 
+  - [Link](https://vuvtuqo.domcloud.io/)
+  - [Link](https://vuvtuqo.domcloud.io/)
+- <b>Laberito</b>
+  - Juego de laberinto con dos niveles. 
+  - Tecnología: Java 8, Processing
+  - [Link](https://vuvtuqo.domcloud.io/)
+- <b>Metal Slug - Naves</b>
+  - Juego en el espacion con enemigos diversos y jugabilidad aleatoria. 
+  - Tecnología: Java 8, Processing
+  - [Link](https://vuvtuqo.domcloud.io/)
