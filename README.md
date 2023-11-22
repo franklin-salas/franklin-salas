@@ -56,44 +56,43 @@
  <a href="https://www.linkedin.com/in/franklin50/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
-## Proyecto 💻
+## Proyectos 💻
 ### Laravel
 - <b>Sistema POS</b>
-  - Sistema de venta, Reportes PDF, Graficos Estadisticos, Lector de Codigo de Barras, Atajos de Teclado. 
-  - Tecnología: Laravel,Bootstrap,JavaScript,MySql
-  - [Link](https://vuvtuqo.domcloud.io/)
+   Sistema de venta, Reportes PDF, Graficos Estadisticos, Lector de Codigo de Barras, Atajos de Teclado. 
+   Tecnología: Laravel,Bootstrap,JavaScript,MySql
+   [Link](https://vuvtuqo.domcloud.io/)
 - <b>Kiosco</b>
-  - Sistema de Pedidos, carrito de compras. 
-  - Tecnología: Laravel, Tailwind, JavaScript, React, MySql
-  - [Link](https://vuvtuqo.domcloud.io/)
+   Sistema de Pedidos, carrito de compras. 
+   Tecnología: Laravel, Tailwind, JavaScript, React, MySql, API Rest
+   [Back-end](https://github.com/franklin-salas/kiosco-api-rest-laravel) [Front-end](https://github.com/franklin-salas/kiosco-app-react)
 - <b>Devstagram</b>
-  - Red social con funciones basicas. 
-  - Tecnología: Laravel, Tailwind, JavaScript, MySql
-  - [Link](https://vuvtuqo.domcloud.io/)
+   Red social con funciones basicas. 
+   Tecnología: Laravel, Tailwind, JavaScript, MySql
+   [Repositorio](https://github.com/franklin-salas/devstagram-laravel)
 ### Java
 - <b>Venta de pasajes</b>
-  - Sistema de venta de pasajes, Reportes PDF. 
-  - Tecnología: Java 8, JasperReport, SQLserver
-  - [Link](https://vuvtuqo.domcloud.io/)
+   Sistema de venta de pasajes, Reportes PDF. 
+   Tecnología: Java 8, JasperReport, SQLserver
+   [Repositorio]()
 - <b>Punto de venta - Patrones de diseño</b>
-  - Utilizar patrones de diseño para crear un modulo de venta con multiple conexion de bases de datos. 
-  - Tecnología: Java 8, SQLserver, MySql
-  - [Link](https://vuvtuqo.domcloud.io/)
+   Utilizar patrones de diseño para crear un modulo de venta con multiple conexion de bases de datos. 
+   Tecnología: Java 8, SQLserver, MySql
+   [Repositorio](https://github.com/franklin-salas/ventasProductos-java)
 - <b>Graficador de Tablas</b>
-  - Grafica elementos de tabla de DB y convierte el diagrama en script sql. 
-  - Tecnología: Java 8 MySql
-  - [Link](https://vuvtuqo.domcloud.io/)
+   Grafica elementos de tabla de DB y convierte el diagrama en script sql. 
+   Tecnología: Java 8 MySql
+   [Repositorio](https://github.com/franklin-salas/diagrama-db-java)
 - <b>Compilador de codigo</b>
-  - 1° Interperta codigo C3 y lo ejecuta. 
-  - 2° Reconoce codigo java y muestra los tokens, puede editar el color de los tokens. 
-  - Tecnología: Java 8 
-  - [Link](https://vuvtuqo.domcloud.io/)
-  - [Link](https://vuvtuqo.domcloud.io/)
+   1° Interperta codigo C3 y lo ejecuta. 
+   2° Analex - Reconoce codigo java y muestra los tokens, puede editar el color de los tokens. 
+   Tecnología: Java 8 
+   [Repositorio 1](https://github.com/franklin-salas/codigo-c3-java) [Repositorio 2](https://github.com/franklin-salas/analizador-compilador-java)
 - <b>Laberito</b>
-  - Juego de laberinto con dos niveles. 
-  - Tecnología: Java 8, Processing
-  - [Link](https://vuvtuqo.domcloud.io/)
+   Juego de laberinto con dos niveles, enemigos con jugabilidad aleatoria.. 
+   Tecnología: Java 8, Processing
+   [Repositorio](https://github.com/franklin-salas/laberinto-juego-java)
 - <b>Metal Slug - Naves</b>
-  - Juego en el espacion con enemigos diversos y jugabilidad aleatoria. 
-  - Tecnología: Java 8, Processing
-  - [Link](https://vuvtuqo.domcloud.io/)
+   Juego en el espacio con enemigos diversos , enemigos con jugabilidad aleatoria. 
+   Tecnología: Java 8, Processing
+   [Repositorio](https://github.com/franklin-salas/nave-juego-java)
