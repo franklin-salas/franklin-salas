@@ -1,16 +1,46 @@
-- 👋 Hi, I’m Franklin  Salas (@lanister-law)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lanister-law/lanister-law is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=franklin-salas&label=Profile%20views&color=0e75b6&style=flat" alt="champimagic" /> </p>
 
 
+# 👋 Hola, Mi nombre es Franklin  Salas (@law)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franklin-salas&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franklin-salas&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+##  GitHub Analytics ⚙️
+<div align="center">
+  <a href="https://github.com/franklin-salas">
+    <p align="center">
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=franklin-salas&show_icons=true&theme=react&hide_border=true" />
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=franklin-salas&theme=react&hide_border=true" />
+      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=franklin-salas&theme=react&hide_border=true"/>
+      <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=franklin-salas&theme=react&hide_border=true"/>
+      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=franklin-salas&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+    </p>
+  </a>
+  <p  align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+  <br>
+</div>
+  
+##  Skills ⚡
+  
+#### Front-end:
+<div>
+  <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="JavaScript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="Sass" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" title="Tailwindcss" alt="Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+
+</div> 
+  
+#### Back-end:
+<div>
+  <img align="center" title="PHP8" alt="PHP8" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" title="Nodejs" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" title="Express" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" title="Java" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+
+#### Database: 
+  <img align="center" title="Postgresql" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain.svg">
+  <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
