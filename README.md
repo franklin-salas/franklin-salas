@@ -59,40 +59,40 @@
 ## Proyectos 💻
 ### Laravel
 - <b>Sistema POS</b>
-   Sistema de venta, Reportes PDF, Graficos Estadisticos, Lector de Codigo de Barras, Atajos de Teclado. 
-   Tecnología: Laravel,Bootstrap,JavaScript,MySql
-   [Link](https://vuvtuqo.domcloud.io/)
+  - Sistema de venta, Reportes PDF, Graficos Estadisticos, Lector de Codigo de Barras, Atajos de Teclado. 
+  - Tecnología: Laravel,Bootstrap,JavaScript,MySql
+  - [Link](https://vuvtuqo.domcloud.io/)
 - <b>Kiosco</b>
-   Sistema de Pedidos, carrito de compras. 
-   Tecnología: Laravel, Tailwind, JavaScript, React, MySql, API Rest
-   [Back-end](https://github.com/franklin-salas/kiosco-api-rest-laravel) [Front-end](https://github.com/franklin-salas/kiosco-app-react)
+  - Sistema de Pedidos, carrito de compras. 
+  - Tecnología: Laravel, Tailwind, JavaScript, React, MySql, API Rest
+  - [Back-end](https://github.com/franklin-salas/kiosco-api-rest-laravel) [Front-end](https://github.com/franklin-salas/kiosco-app-react)
 - <b>Devstagram</b>
-   Red social con funciones basicas. 
-   Tecnología: Laravel, Tailwind, JavaScript, MySql
-   [Repositorio](https://github.com/franklin-salas/devstagram-laravel)
+  - Red social con funciones basicas. 
+  - Tecnología: Laravel, Tailwind, JavaScript, MySql
+  - [Repositorio](https://github.com/franklin-salas/devstagram-laravel)
 ### Java
 - <b>Venta de pasajes</b>
-   Sistema de venta de pasajes, Reportes PDF. 
-   Tecnología: Java 8, JasperReport, SQLserver
-   [Repositorio]()
+  - Sistema de venta de pasajes, Reportes PDF. 
+  - Tecnología: Java 8, JasperReport, SQLserver
+  - [Repositorio]()
 - <b>Punto de venta - Patrones de diseño</b>
-   Utilizar patrones de diseño para crear un modulo de venta con multiple conexion de bases de datos. 
-   Tecnología: Java 8, SQLserver, MySql
-   [Repositorio](https://github.com/franklin-salas/ventasProductos-java)
+  - Utilizar patrones de diseño para crear un modulo de venta con multiple conexion de bases de datos. 
+  - Tecnología: Java 8, SQLserver, MySql
+  - [Repositorio](https://github.com/franklin-salas/ventasProductos-java)
 - <b>Graficador de Tablas</b>
-   Grafica elementos de tabla de DB y convierte el diagrama en script sql. 
-   Tecnología: Java 8 MySql
-   [Repositorio](https://github.com/franklin-salas/diagrama-db-java)
+  - Grafica elementos de tabla de DB y convierte el diagrama en script sql. 
+  - Tecnología: Java 8 MySql
+  - [Repositorio](https://github.com/franklin-salas/diagrama-db-java)
 - <b>Compilador de codigo</b>
-   1° Interperta codigo C3 y lo ejecuta. 
-   2° Analex - Reconoce codigo java y muestra los tokens, puede editar el color de los tokens. 
-   Tecnología: Java 8 
-   [Repositorio 1](https://github.com/franklin-salas/codigo-c3-java) [Repositorio 2](https://github.com/franklin-salas/analizador-compilador-java)
+  - 1° Interperta codigo C3 y lo ejecuta. 
+  - 2° Analex - Reconoce codigo java y muestra los tokens, puede editar el color de los tokens. 
+  - Tecnología: Java 8 
+  - [Repositorio 1](https://github.com/franklin-salas/codigo-c3-java) [Repositorio 2](https://github.com/franklin-salas/analizador-compilador-java)
 - <b>Laberito</b>
-   Juego de laberinto con dos niveles, enemigos con jugabilidad aleatoria.. 
-   Tecnología: Java 8, Processing
-   [Repositorio](https://github.com/franklin-salas/laberinto-juego-java)
+  - Juego de laberinto con dos niveles, enemigos con jugabilidad aleatoria.. 
+  - Tecnología: Java 8, Processing
+  - [Repositorio](https://github.com/franklin-salas/laberinto-juego-java)
 - <b>Metal Slug - Naves</b>
-   Juego en el espacio con enemigos diversos , enemigos con jugabilidad aleatoria. 
-   Tecnología: Java 8, Processing
-   [Repositorio](https://github.com/franklin-salas/nave-juego-java)
+  - Juego en el espacio con enemigos diversos , enemigos con jugabilidad aleatoria. 
+  - Tecnología: Java 8, Processing
+  - [Repositorio](https://github.com/franklin-salas/nave-juego-java)
