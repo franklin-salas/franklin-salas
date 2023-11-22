@@ -20,7 +20,7 @@
   <br>
 </div>
   
-## Skills ⚡
+## Habilidades ⚡
   
 #### Front-end:
 <div>
@@ -49,7 +49,7 @@
   <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  </div>
  
-##  Contacts :speech_balloon:
+##  Contactos :speech_balloon:
  
 <div>
   <a href="https://api.whatsapp.com/send?phone=59171366093" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
