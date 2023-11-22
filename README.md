@@ -81,14 +81,14 @@
   - [Repositorio](https://github.com/franklin-salas/ventasProductos-java)
 - <b>Graficador de Tablas</b>
   - Grafica elementos de tabla de DB y convierte el diagrama en script sql. 
-  - Tecnología: Java 8 MySql
+  - Tecnología: Java 8, MySql
   - [Repositorio](https://github.com/franklin-salas/diagrama-db-java)
 - <b>Compilador de codigo</b>
   - 1° Interperta codigo C3 y lo ejecuta. 
   - 2° Analex - Reconoce codigo java y muestra los tokens, puede editar el color de los tokens. 
   - Tecnología: Java 8 
   - [Repositorio 1](https://github.com/franklin-salas/codigo-c3-java) [Repositorio 2](https://github.com/franklin-salas/analizador-compilador-java)
-- <b>Laberito</b>
+- <b>Laberinto</b>
   - Juego de laberinto con dos niveles, enemigos con jugabilidad aleatoria.. 
   - Tecnología: Java 8, Processing
   - [Repositorio](https://github.com/franklin-salas/laberinto-juego-java)
