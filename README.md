@@ -73,8 +73,8 @@
 ### Java
 - <b>Venta de pasajes</b>
   - Sistema de venta de pasajes, Reportes PDF. 
-  - Tecnología: Java 8, JasperReport, SQLserver
-  - [Repositorio]()
+  - Tecnología: Java 8, JasperReport, SQLserver -SBD
+  - [Repositorio](https://github.com/franklin-salas/trasnporte8)
 - <b>Punto de venta - Patrones de diseño</b>
   - Utilizar patrones de diseño para crear un modulo de venta con multiple conexion de bases de datos. 
   - Tecnología: Java 8, SQLserver, MySql
