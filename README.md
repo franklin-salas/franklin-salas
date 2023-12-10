@@ -62,14 +62,21 @@
   - Sistema de venta, Reportes PDF, Graficos Estadisticos, Lector de Codigo de Barras, Atajos de Teclado. 
   - Tecnología: Laravel,Bootstrap,JavaScript,MySql
   - [Link](https://vuvtuqo.domcloud.io/)
-- <b>Kiosco</b>
-  - Sistema de Pedidos, carrito de compras. 
-  - Tecnología: Laravel, Tailwind, JavaScript, React, MySql, API Rest
-  - [Back-end](https://github.com/franklin-salas/kiosco-api-rest-laravel) [Front-end](https://github.com/franklin-salas/kiosco-app-react)
+
 - <b>Devstagram</b>
   - Red social con funciones basicas. 
   - Tecnología: Laravel, Tailwind, JavaScript, MySql
   - [Repositorio](https://github.com/franklin-salas/devstagram-laravel)
+### React 
+- <b>Kiosco</b>
+  - Sistema de Pedidos, carrito de compras. 
+  - Tecnología: Laravel, Tailwind, JavaScript, React, MySql, API Rest
+  - [Back-end](https://github.com/franklin-salas/kiosco-api-rest-laravel) [Front-end](https://github.com/franklin-salas/kiosco-app-react)
+- <b>Journal (Diario)</b>
+  - Una aplicacion de Agenda,autenticacion de redes sociales y creacion de cuenta, subida de imagenes a servicios dedicados. 
+  - Tecnología: Firebase, Material UI, JavaScript, React, MySql, API Rest Claudinary (imagenes).
+  - [Link](https://journal-bcxobjwr8-franks-projects-550c80c7.vercel.app/)
+
 ### Java
 - <b>Venta de pasajes</b>
   - Sistema de venta de pasajes, Reportes PDF. 
