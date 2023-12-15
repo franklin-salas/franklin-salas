@@ -78,10 +78,7 @@
   - [Link](https://journal-bcxobjwr8-franks-projects-550c80c7.vercel.app/)
 
 ### Java
-- <b>Venta de pasajes</b>
-  - Sistema de venta de pasajes, Reportes PDF. 
-  - Tecnología: Java 8, JasperReport, SQLserver -SBD
-  - [Repositorio](https://github.com/franklin-salas/trasnporte8)
+
 - <b>Punto de venta - Patrones de diseño</b>
   - Utilizar patrones de diseño para crear un modulo de venta con multiple conexion de bases de datos. 
   - Tecnología: Java 8, SQLserver, MySql
@@ -90,6 +87,10 @@
   - Grafica elementos de tabla de DB y convierte el diagrama en script sql. 
   - Tecnología: Java 8, MySql
   - [Repositorio](https://github.com/franklin-salas/diagrama-db-java)
+- <b>Venta de pasajes</b>
+  - Sistema de venta de pasajes, Reportes PDF. 
+  - Tecnología: Java 8, JasperReport, SQLserver -SBD
+  - [Repositorio](https://github.com/franklin-salas/trasnporte8)
 - <b>Compilador de codigo</b>
   - 1° Interperta codigo C3 y lo ejecuta. 
   - 2° Analex - Reconoce codigo java y muestra los tokens, puede editar el color de los tokens. 
@@ -103,3 +104,12 @@
   - Juego en el espacio con enemigos diversos , enemigos con jugabilidad aleatoria. 
   - Tecnología: Java 8, Processing
   - [Repositorio](https://github.com/franklin-salas/nave-juego-java)
+### API REST
+- <b>Kiosco </b>
+  - Sistema de Pedidos, carrito de compras. 
+  - Tecnología: Laravel, Mysql , auth
+  - [Back-end](https://github.com/franklin-salas/kiosco-api-rest-laravel)
+- <b>Productos Usuario </b>
+  - API basica para ADM Ventas, registro usuarios, login [google, mongodb] , crud productos, crud categorias. 
+  - Tecnología: Node, Express, MongoDB , ODM Mongoose, Auth jwt, Auth Google 
+  - [Back-end](https://github.com/franklin-salas/api-rest-productos-node)
