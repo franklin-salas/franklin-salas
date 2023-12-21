@@ -62,11 +62,11 @@
   - Sistema de venta, Reportes PDF, Graficos Estadisticos, Lector de Codigo de Barras, Atajos de Teclado. 
   - Tecnología: Laravel,Bootstrap,JavaScript,MySql
   - [Link](https://vuvtuqo.domcloud.io/)
-
 - <b>Devstagram</b>
   - Red social con funciones basicas. 
   - Tecnología: Laravel, Tailwind, JavaScript, MySql
   - [Repositorio](https://github.com/franklin-salas/devstagram-laravel)
+    
 ### React 
 - <b>Kiosco</b>
   - Sistema de Pedidos, carrito de compras. 
@@ -79,7 +79,7 @@
 - <b>Agenda</b>
   - Una aplicacion de Agenda para guardar tus notas o recuerdos, autentiacion y registro con API , calendario  (Mes, Semana, Día). 
   - Tecnología: API Node, Bootstrap, JavaScript, React.
-  - [Link](https://api-rest-agenda-node-production.up.railway.app/)
+  - [Back-end](https://github.com/franklin-salas/api-rest-agenda-node) [Link](https://api-rest-agenda-node-production.up.railway.app/) 
 
 ### Java
 
@@ -108,6 +108,7 @@
   - Juego en el espacio con enemigos diversos , enemigos con jugabilidad aleatoria. 
   - Tecnología: Java 8, Processing
   - [Repositorio](https://github.com/franklin-salas/nave-juego-java)
+    
 ### API REST
 - <b>Kiosco </b>
   - Sistema de Pedidos, carrito de compras. 
