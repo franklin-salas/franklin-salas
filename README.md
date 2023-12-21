@@ -73,9 +73,13 @@
   - Tecnología: Laravel, Tailwind, JavaScript, React, MySql, API Rest
   - [Back-end](https://github.com/franklin-salas/kiosco-api-rest-laravel) [Front-end](https://github.com/franklin-salas/kiosco-app-react)
 - <b>Journal (Diario)</b>
-  - Una aplicacion de Agenda,autenticacion de redes sociales y creacion de cuenta, subida de imagenes a servicios dedicados. 
-  - Tecnología: Firebase, Material UI, JavaScript, React, MySql, API Rest Claudinary (imagenes).
+  - Una aplicacion Diario, autenticacion de redes sociales y creacion de cuenta, subida de imagenes a servicios dedicados. 
+  - Tecnología: Firebase, Material UI, JavaScript, React, Redux, API Rest Claudinary (imagenes).
   - [Link](https://journal-bcxobjwr8-franks-projects-550c80c7.vercel.app/)
+- <b>Agenda</b>
+  - Una aplicacion de Agenda para guardar tus notas o recuerdos, autentiacion y registro con API , calendario  (Mes, Semana, Día). 
+  - Tecnología: API Node, Bootstrap, JavaScript, React.
+  - [Link](https://api-rest-agenda-node-production.up.railway.app/)
 
 ### Java
 
@@ -109,7 +113,11 @@
   - Sistema de Pedidos, carrito de compras. 
   - Tecnología: Laravel, Mysql , auth
   - [Back-end](https://github.com/franklin-salas/kiosco-api-rest-laravel)
+- <b>Agenda </b>
+  - API  para guardar tus notas o tareas, registro usuarios, login, crud notas. 
+  - Tecnología: Node, Express, MongoDB , ODM Mongoose, Auth jwt.
+  - [Back-end](https://github.com/franklin-salas/api-rest-agenda-node)
 - <b>Productos Usuario </b>
   - API basica para ADM Ventas, registro usuarios, login [google, mongodb] , crud productos, crud categorias. 
-  - Tecnología: Node, Express, MongoDB , ODM Mongoose, Auth jwt, Auth Google 
+  - Tecnología: Node, Express, MongoDB , ODM Mongoose, Auth jwt, Auth Google. 
   - [Back-end](https://github.com/franklin-salas/api-rest-productos-node)
