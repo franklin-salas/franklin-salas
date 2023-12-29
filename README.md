@@ -72,6 +72,11 @@
   - Sistema de Pedidos, carrito de compras. 
   - Tecnología: Laravel, Tailwind, JavaScript, React, MySql, API Rest
   - [Back-end](https://github.com/franklin-salas/kiosco-api-rest-laravel) [Front-end](https://github.com/franklin-salas/kiosco-app-react)
+    https://startling-gaufre-26e238.netlify.app/
+- <b>DashBoard Store Food </b>
+  - Diseño en de una tienda de comida. 
+  - Tecnología: Tailwind, JavaScript, React.
+  - [Link](https://startling-gaufre-26e238.netlify.app/)
 - <b>Journal (Diario)</b>
   - Una aplicacion Diario, autenticacion de redes sociales y creacion de cuenta, subida de imagenes a servicios dedicados. 
   - Tecnología: Firebase, Material UI, JavaScript, React, Redux, API Rest Claudinary (imagenes).
