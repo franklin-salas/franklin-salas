@@ -61,6 +61,8 @@
 - <b>Sistema POS</b>
   - Sistema de venta, Reportes PDF, Graficos Estadisticos, Lector de Codigo de Barras, Atajos de Teclado. 
   - Tecnología: Laravel,Bootstrap,JavaScript,MySql
+  - test
+  - user: prueba@gmail.com   password: prueba
   - [Link](https://projectf.dev)
 - <b>Devstagram</b>
   - Red social con funciones basicas. 
