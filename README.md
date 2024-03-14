@@ -89,18 +89,20 @@
 
 ### Java
 
-- <b>Punto de venta - Patrones de diseño</b>
-  - Utilizar patrones de diseño para crear un modulo de venta con multiple conexion de bases de datos. 
+- <b>Practica de sistema de ventas con Patrones de diseño</b>
+  - Utilizar patrones de diseño para crear un modulo de venta con multiple conexion de bases de datos.
+  - Patrones de Diseño strategy,composite, template, observer , singleton y prototype.
+  - Manejo de objetos  genericos, herencias y sobreescitura.
   - Tecnología: Java 8, SQLserver, MySql
   - [Repositorio](https://github.com/franklin-salas/ventasProductos-java)
 - <b>Graficador de Tablas</b>
   - Grafica elementos de tabla de DB y convierte el diagrama en script sql. 
   - Tecnología: Java 8, MySql
   - [Repositorio](https://github.com/franklin-salas/diagrama-db-java)
-- <b>Venta de pasajes</b>
-  - Sistema de venta de pasajes, Reportes PDF. 
-  - Tecnología: Java 8, JasperReport, SQLserver -SBD
-  - [Repositorio](https://github.com/franklin-salas/trasnporte8)
+- <b>Sistema para Tiendas</b>
+  - Sistema de venta de productos con el patron DAO. 
+  - Tecnología: Java 11, JasperReport, Mysql
+  - [Repositorio](https://github.com/franklin-salas/sistema-venta-java)
 - <b>Compilador de codigo</b>
   - 1° Interperta codigo C3 y lo ejecuta. 
   - 2° Analex - Reconoce codigo java y muestra los tokens, puede editar el color de los tokens. 
