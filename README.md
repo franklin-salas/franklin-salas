@@ -61,6 +61,7 @@
 - <b>Sistema POS</b>
   - Sistema de venta, Reportes PDF, Graficos Estadisticos, Lector de Codigo de Barras, Atajos de Teclado. 
   - Tecnología: Laravel,Bootstrap,JavaScript,MySql
+  - Host: VPS Digita Ocean, Ngix
   - test
   - user: prueba@gmail.com   password: prueba
   - [Link](https://projectf.dev)
