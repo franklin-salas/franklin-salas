@@ -76,7 +76,7 @@
   - Tecnología: Laravel, Tailwind, JavaScript, React, MySql, API Rest
   - [Back-end](https://github.com/franklin-salas/kiosco-api-rest-laravel) [Front-end](https://github.com/franklin-salas/kiosco-app-react)
 - <b>Servichios de chatGpt </b>
-  - Procesaminetos de texto, generacion de audios y imagenes. 
+  - Procesaminetos de texto, generacion de audios e imagenes. 
   - Tecnología: Tailwind, TypeScript, React.
   - [Repositorio](https://github.com/franklin-salas/chat-gpt-react)
    
