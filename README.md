@@ -75,6 +75,11 @@
   - Sistema de Pedidos, carrito de compras. 
   - Tecnología: Laravel, Tailwind, JavaScript, React, MySql, API Rest
   - [Back-end](https://github.com/franklin-salas/kiosco-api-rest-laravel) [Front-end](https://github.com/franklin-salas/kiosco-app-react)
+- <b>Servichios de chatGpt </b>
+  - Procesaminetos de texto, generacion de audios y imagenes. 
+  - Tecnología: Tailwind, TypeScript, React.
+  - [Repositorio](https://github.com/franklin-salas/chat-gpt-react)
+   
 - <b>DashBoard Store Food </b>
   - Diseño en de una tienda de comida. 
   - Tecnología: Tailwind, JavaScript, React.
