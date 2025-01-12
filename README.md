@@ -63,8 +63,8 @@
   - Tecnología: Laravel,Bootstrap,JavaScript,MySql
   - Host: VPS Digital Ocean.
   - test
-  - user: prueba@gmail.com   password: prueba
-  - [Link](https://projectf.dev)
+  - user: prueba@gmail.com   password: prueba  (rol:empleado)
+  - [Link](https://projectf.lat)
 - <b>Devstagram</b>
   - Red social con funciones basicas. 
   - Tecnología: Laravel, Tailwind, JavaScript, MySql
