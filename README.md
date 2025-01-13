@@ -59,7 +59,7 @@
 ## Proyectos 💻
 ### Angular 
 - <b>Sistema clinico</b>
-  -Sistema clinico , con reservas, disponibilidad de horarios,especialidades, registro de pacientes y doctores
+  -Sistema clínico , con reservas, disponibilidad de horarios,especialidades, registro de pacientes y doctores
   - Tecnoligia : Angular, Bootstrap5, Laravel, Mysql
   - [Repositorio](https://github.com/franklin-salas/angularclinic)
 - <b>Clon de spotify</b> 
