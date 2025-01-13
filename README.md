@@ -57,6 +57,15 @@
  </div>
  
 ## Proyectos 💻
+### Angular 
+- <b>Sistema clinico</b>
+-Sistema clinico , con reservas, disponibilidad de horarios,especialidades, registro de pacientes y doctores
+- Tecnoligia : Angular, Bootstrap5, Laravel, Mysql
+ - [Repositorio](https://github.com/franklin-salas/angularclinic)
+
+- <b>Clon de spotify</b> 
+- Tecnoligia : Angular, Node, Express, Css, Html 
+ - [Repositorio](https://github.com/franklin-salas/clone-spotify-angular)
 ### Laravel
 - <b>Sistema POS</b>
   - Sistema de venta, Reportes PDF, Graficos Estadisticos, Lector de Codigo de Barras, Atajos de Teclado. 
