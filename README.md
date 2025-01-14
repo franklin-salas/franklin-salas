@@ -60,10 +60,10 @@
 ### Angular 
 - <b>Sistema clinico</b>
   -Sistema clínico , con reservas, disponibilidad de horarios,especialidades, registro de pacientes y doctores
-  - Tecnoligia : Angular, Bootstrap5, Laravel, Mysql
+  - Tecnologia : Angular, Bootstrap5, Laravel, Mysql
   - [Repositorio](https://github.com/franklin-salas/angularclinic)
 - <b>Clon de spotify</b> 
-  - Tecnoligia : Angular, Node, Express, Css, Html 
+  - Tecnologia : Angular, Node, Express, Css, Html 
   - [Repositorio](https://github.com/franklin-salas/clone-spotify-angular)
 ### Laravel
 - <b>Sistema POS</b>
