@@ -81,7 +81,7 @@
 ### React 
 
 - <b>Encuesta</b>
-  - Sistema para realizar encuestas : crea preguntas de seleccion multiple y de una seleccion ,se puede ordenar dinamicamente las preguntas, los resultados se muestra en graficosn entendibles. 
+  - Sistema para realizar encuestas : crea preguntas de seleccion multiple y de una seleccion ,se puede ordenar dinamicamente las preguntas, los resultados se muestra en graficos entendibles. 
   - Tecnología: Springboot, bootstrap 5, TypeScript, React, MySql, API Rest
   - [Back-end](https://github.com/franklin-salas/encuesta-spring-boot) [Front-end](https://github.com/franklin-salas/encuesta--react)
   - 
