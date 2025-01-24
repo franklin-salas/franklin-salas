@@ -79,6 +79,12 @@
   - [Repositorio](https://github.com/franklin-salas/devstagram-laravel)
     
 ### React 
+
+- <b>Encuesta</b>
+  - Sistema para realizar encuestas : crea preguntas de seleccion multiple y de una seleccion ,se puede ordenar dinamicamente las preguntas, los resultados se muestra en graficosn entendibles. 
+  - Tecnología: Springboot, bootstrap 5, TypeScript, React, MySql, API Rest
+  - [Back-end](https://github.com/franklin-salas/encuesta-spring-boot) [Front-end](https://github.com/franklin-salas/encuesta--react)
+  - 
 - <b>Kiosco</b>
   - Sistema de Pedidos, carrito de compras. 
   - Tecnología: Laravel, Tailwind, JavaScript, React, MySql, API Rest
